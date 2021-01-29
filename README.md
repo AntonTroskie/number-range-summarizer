@@ -91,8 +91,8 @@ number-range-summarizer
 
 ## Documentation
 
-- [Documentation](https://github.com/AntonTroskie/numberrangesummarizer/blob/main/doc/Documentation.pdf) - Lightweight technical documentation.
+- [Documentation](https://github.com/AntonTroskie/number-range-summarizer/blob/main/doc/Documentation.pdf) - Lightweight technical documentation.
 
 ## Bugs/Issues
 
-If you have questions, feature requests or a bug you want to report, please click [here](https://github.com/AntonTroskie/numberrangesummarizer/issues) to file an issue.
+If you have questions, feature requests or a bug you want to report, please click [here](https://github.com/AntonTroskie/number-range-summarizer/issues) to file an issue.
