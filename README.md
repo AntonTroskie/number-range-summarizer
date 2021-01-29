@@ -52,7 +52,7 @@ $ ./gradlew test
 ## Structure / Scaffolding
 
 ```text
-numberrangesummarizer
+number-range-summarizer
 ├── build.gradle
 ├── doc
 │   └── Documentation.pdf
