@@ -43,10 +43,10 @@ $ ./gradlew build
 $ ./gradlew run
 ```
 
-Unit tests are run using:
+Unit tests are executed using:
 
 ```sh
-$ ./gradlew test
+$ ./gradlew test --tests SummarizerTest
 ```
 
 ## Structure / Scaffolding
